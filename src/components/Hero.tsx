@@ -1,4 +1,4 @@
-const profileImg = `${import.meta.env.BASE_URL}images/profile.jpeg`;
+const profileImg = "/images/profile.jpeg";
 
 export default function Hero() {
   return (
