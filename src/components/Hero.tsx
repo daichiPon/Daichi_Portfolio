@@ -67,7 +67,7 @@ export default function Hero() {
 
         {/* 右: プロフィール写真 */}
         <div className="shrink-0">
-          <div className="w-64 h-64 md:w-80 md:h-80 rounded-2xl overflow-hidden shadow-lg border border-slate-100">
+          <div className="w-64 h-64 md:w-100 md:h-100 rounded-2xl overflow-hidden shadow-lg border border-slate-100">
             <img
               src={profileImg}
               alt="Daichi Nakamoto"
