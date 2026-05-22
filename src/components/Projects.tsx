@@ -21,7 +21,7 @@ const PROJECTS: Project[] = [
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite"],
     github: "https://github.com/daichiPon/Daichi_Portfolio",
     image: "🌐",
-    pdf: "/pdfs/portfolio.pdf",
+    pdf: `${import.meta.env.BASE_URL}pdfs/portfolio.pdf`,
   },
   {
     title: "foodMap",
@@ -39,7 +39,7 @@ const PROJECTS: Project[] = [
     tags: ["React", "Javascript", "firebase", "Liff"],
     github: "https://github.com/daichiPon/driverPayment",
     image: driverpayment,
-    pdf: "/pdfs/salary.pdf",
+    pdf: `${import.meta.env.BASE_URL}pdfs/salary.pdf`,
   },
 ];
 
