@@ -16,7 +16,7 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur border-b border-slate-100">
       <nav className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
         <a href="#hero" className="text-slate-900 font-bold text-lg tracking-tight">
-          Daichi.dev
+          ポートフォリオサイト
         </a>
 
         {/* Desktop */}

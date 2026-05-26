@@ -17,7 +17,7 @@ const PROJECTS: Project[] = [
   {
     title: "ポートフォリオサイト",
     description:
-      "React + TypeScript + Tailwind CSS で構築した個人ポートフォリオ。レスポンシブ対応、スムーズスクロールを実装。",
+      "React + TypeScript + Tailwind CSS で構築したこのポートフォリオ。レスポンシブ対応、スムーズスクロールを実装。",
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite"],
     github: "https://github.com/daichiPon/Daichi_Portfolio",
     image: "🌐",

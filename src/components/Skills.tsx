@@ -11,9 +11,10 @@ const CATEGORIES: Category[] = [
     title: "言語",
     icon: "💻",
     skills: [
-      { name: "JavaScript", years: 2, stars: 4 },
-      { name: "TypeScript", years: 2, stars: 4 },
+      { name: "JavaScript", years: 2, stars: 3 },
+      { name: "TypeScript", years: 2, stars: 3 },
       { name: "Apex", years: 1, stars: 2 },
+      { name: "C", years: 0.3, stars: 2 },
     ],
   },
   {
@@ -30,7 +31,7 @@ const CATEGORIES: Category[] = [
     title: "クラウド / バックエンド",
     icon: "☁️",
     skills: [
-      { name: "AWS Amplify", years: 2, stars: 4 },
+      { name: "AWS Amplify", years: 2, stars: 3 },
       { name: "AWS Cognito", years: 2, stars: 3 },
       { name: "AWS Lambda", years: 2, stars: 3 },
       { name: "AWS Transcribe", years: 0.5, stars: 5 },
